@@ -5,6 +5,7 @@ let tentativas = 1;
 
 // Comentário
 // Comentario DOIS
+// Comentário TRÊSSSSS
 
 function exibirTextoNaTela(tag, texto) {
     let campo = document.querySelector(tag);
